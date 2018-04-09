@@ -221,7 +221,14 @@ module.exports = {
   }
 ```
 
+Run the application and check the view source of the webpage contains the rendered html.
+```
+npm run start
+```
 Now all configurations for server side rendering is done and happy coding......
+
+Angular universal is more suitable for static webapges, renders on server side using node server.
+Some packages like Jquery, D3.js etc will not rendered on the server side. Currently, Universal team is working on it.
 
 Upcoming features on Angular universal..:
 https://github.com/angular/universal#in-progress
