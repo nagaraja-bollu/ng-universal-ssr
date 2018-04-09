@@ -1,4 +1,4 @@
-## Configure Angular universal to angular-cli project for server side rendering
+## Configure [Angular universal](https://universal.angular.io/) to angular-cli project for server side rendering
 
 ### prerequisites:
 - Angular-cli template  v1.7
